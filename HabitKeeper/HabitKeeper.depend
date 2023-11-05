@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1698782624 source:d:\program files (x86)\new folder\habitkeeper\main.cpp
+	<iostream>
+	<cstdlib>
+	"menuUsuario.h"
+	"menuDeveloper.h"
+
+1698782388 d:\program files (x86)\new folder\habitkeeper\menuusuario.h
+	"globales.h"
+	"Usuario.h"
+	"ArchivoUsuario.h"
+	"menuHabitos.h"
+	"menuDesafio.h"
+
+1697828348 d:\program files (x86)\new folder\habitkeeper\globales.h
+
+1698781006 d:\program files (x86)\new folder\habitkeeper\include\usuario.h
+	"Habito.h"
+	"../globales.h"
+
+1698925840 d:\program files (x86)\new folder\habitkeeper\include\habito.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"Fecha.h"
+
+1698864387 d:\program files (x86)\new folder\habitkeeper\include\fecha.h
+	<iostream>
+	<ctime>
+
+1698440622 d:\program files (x86)\new folder\habitkeeper\include\archivousuario.h
+	"Usuario.h"
+
+1698931294 d:\program files (x86)\new folder\habitkeeper\menuhabitos.h
+	"ArchivoHabito.h"
+	"Habito.h"
+
+1698925811 d:\program files (x86)\new folder\habitkeeper\include\archivohabito.h
+	"Habito.h"
+
+1699208994 d:\program files (x86)\new folder\habitkeeper\menudesafio.h
+	"ArchivoDesafio.h"
+	"ArchivoDesafioUsuario.h"
+
+1698926647 d:\program files (x86)\new folder\habitkeeper\menudeveloper.h
+	"ArchivoDesafio.h"
+	"ArchivoDesafioUsuario.h"
+
+1698930293 d:\program files (x86)\new folder\habitkeeper\include\archivodesafio.h
+	"Desafio.h"
+
+1698933627 d:\program files (x86)\new folder\habitkeeper\include\desafio.h
+
+1699208894 d:\program files (x86)\new folder\habitkeeper\include\archivodesafiousuario.h
+	"DesafioUsuario.h"
+	"ArchivoDesafio.h"
+
+1699208759 d:\program files (x86)\new folder\habitkeeper\include\desafiousuario.h
+
+1698782624 source:c:\users\alumno\downloads\habitkeeper\main.cpp
+	<iostream>
+	<cstdlib>
+	"menuUsuario.h"
+	"menuDeveloper.h"
+
+1698782388 c:\users\alumno\downloads\habitkeeper\menuusuario.h
+	"globales.h"
+	"Usuario.h"
+	"ArchivoUsuario.h"
+	"menuHabitos.h"
+	"menuDesafio.h"
+
+1697828348 c:\users\alumno\downloads\habitkeeper\globales.h
+
+1698781006 c:\users\alumno\downloads\habitkeeper\include\usuario.h
+	"Habito.h"
+	"../globales.h"
+
+1698925840 c:\users\alumno\downloads\habitkeeper\include\habito.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"Fecha.h"
+
+1698864387 c:\users\alumno\downloads\habitkeeper\include\fecha.h
+	<iostream>
+	<ctime>
+
+1698440622 c:\users\alumno\downloads\habitkeeper\include\archivousuario.h
+	"Usuario.h"
+
+1698931294 c:\users\alumno\downloads\habitkeeper\menuhabitos.h
+	"ArchivoHabito.h"
+	"Habito.h"
+
+1698925811 c:\users\alumno\downloads\habitkeeper\include\archivohabito.h
+	"Habito.h"
+
+1698932135 c:\users\alumno\downloads\habitkeeper\menudesafio.h
+	"ArchivoDesafio.h"
+	"ArchivoDesafioUsuario.h"
+
+1698930293 c:\users\alumno\downloads\habitkeeper\include\archivodesafio.h
+	"Desafio.h"
+
+1698933627 c:\users\alumno\downloads\habitkeeper\include\desafio.h
+
+1698933529 c:\users\alumno\downloads\habitkeeper\include\archivodesafiousuario.h
+	"DesafioUsuario.h"
+	"ArchivoDesafio.h"
+
+1698932098 c:\users\alumno\downloads\habitkeeper\include\desafiousuario.h
+
+1698926647 c:\users\alumno\downloads\habitkeeper\menudeveloper.h
+	"ArchivoDesafio.h"
+	"ArchivoDesafioUsuario.h"
+
